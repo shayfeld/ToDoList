@@ -1,6 +1,7 @@
 # To-Do List
 
-A MERN full stack application.
+A full stack application written in MERN. 
+
 ## Acknowledgements
 
  - [Front-end templates](https://www.bootstrapcdn.com/)
@@ -17,6 +18,7 @@ A MERN full stack application.
 **Server:** NodeJS, Express 
 
 **Database:** MongoDB
+
 ## Run Locally
 
 Clone the project
