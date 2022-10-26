@@ -58,7 +58,7 @@ Open in browser
 ![App Screenshot](https://i.ibb.co/1Q1QmZL/Login.jpg)
 
 ### **Dashboard**
-![App Screenshot](https://i.ibb.co/gPfGQYk/tasks.jpg)
+![App Screenshot](https://i.ibb.co/pQ3jK2R/EditTask.jpg)
 
 
 ### **Task**
