@@ -6,8 +6,5 @@ export async function connectDB(){
     if(db) return db;
     let client = await MongoClient.connect(uri,{userNewUrlParser: true});
     db = client.db();
-    console.log("got bd, ",db);
     return db;
 }
-
-//connectDB();
