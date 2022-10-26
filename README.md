@@ -3,7 +3,6 @@
 A MERN full stack application.
 ## Acknowledgements
 
- - [Front-end templates](https://www.bootstrapcdn.com/)
  - [Readme Templates](https://readme.so/)
 
 ## Authors
